@@ -97,7 +97,7 @@ class StepItem extends StatelessWidget {
         color: Colors.grey,
       ),
       Expanded(
-        child: step is StepText
+        child: step is StepChild
             ? (step as StepChild).child
             : Container(
                 decoration: BoxDecoration(
