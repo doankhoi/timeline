@@ -1,8 +1,8 @@
-name: timeline
-description: A new Flutter package project.
+name: osbkca_timeline
+description: A flexible Flutter timeline widget.
 version: 0.0.1
-author:
-homepage:
+author: doankhoi <doankhoi@cohost.club>
+homepage: https://github.com/doankhoi/timeline
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
